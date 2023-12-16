@@ -1,0 +1,2 @@
+# game-
+添加GPT命令timelimit seconds来设置时间限制，实现solve命令计算当前局面赢家及最佳移动，并修改genmove命令使用solver尝试完美下棋。
